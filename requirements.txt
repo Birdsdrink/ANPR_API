@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
+ultralytics
+paddleocr
+paddlepaddle
+opencv-python
